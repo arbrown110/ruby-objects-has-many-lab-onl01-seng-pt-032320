@@ -13,5 +13,5 @@ class Post
   
   def author_name
     author.name == author
-  
- 
+  end
+ end
